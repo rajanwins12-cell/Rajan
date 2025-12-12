@@ -1,0 +1,1 @@
+start_msg = 'Bot is running successfully!'
